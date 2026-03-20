@@ -1,7 +1,5 @@
 import requests
 
-url_api = "https://fakestoreapi.com/products"
-
 
 def extraer_productos(url_api):
     try:
